@@ -2,7 +2,7 @@ public class helloWorld{
 
 public static void main(String[] args){
 
-System.out.println("Hello World new commit");
+System.out.println("Hello World new commit: demo");
 
 }
 
